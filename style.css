@@ -44,7 +44,7 @@ input.searchbutton { background: #E60000; border: 0; padding: 6px; color: #fff; 
     #main ul{font-size: .55em; padding-left: 10px;}
 	#line { clear: both; padding: 3px; margin: 0 0 15px; background: #fff url(images/smalldot.gif) repeat-x; }
 	#ad { float: right; text-align: center; padding: 33px 0 0; width: 250px; border: 3px solid #eee; color: #ccc; height: 50px; margin: 0 0 15px; }
-	#shortnews { float: left; width: 250px; }
+	#shortnews { float: right; width: 250px; }
 	.news { border-bottom: 1px solid #eee; padding: 0 0 2px; margin: 0 0 10px;}
 
 #mainLong { float: left; width: 980px; margin: 0 0 20px; }
