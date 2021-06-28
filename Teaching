@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Kourosh Zarringhalam</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="Small Corporation" />
+	<meta name="keywords" content="small, corporation" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+	<div id="content">
+		<div id="top">
+          <p><img src="images/umb-logo-large.gif" alt="Car" hight=65px width=65px/></p>
+		</div>
+	
+		<div id="logo">
+			<h1><a href="http://www.umb.edu">University of Massachusetts Boston</a></h1>
+			<p><a href="http://www.math.umb.edu">Department of Mathematics</a></p>
+		</div>
+
+		<ul id="menu">
+			<li><a class="current" href="index.html">Home</a></li>
+			<li><a href="Teaching.html">Teaching</a></li>
+			<li><a href="Research.html">Research</a></li>
+			<li><a href="CV.html">CV</a></li>
+			<li><a href="Software.html">Software</a></li>
+			<li><a href="Links.html">Links</a></li>
+		</ul>
+
+		<div id="mainLong">
+          <h3>Publications</h3>
+		  <li>Dynamics of the ethanolamine glycerophospholipid remodeling
+			network, under revision</li>
+          <ul> L. Zhang*, N. Diaz–Diaz*, <b>K. Zarringhalam*</b>, 
+            M. Hermansson, P. Somerharju, J.
+            Chuang. ( * co-first authors )</ul>
+		  <li>Integrating chemical footprinting data into RNA secondary
+		    structure prediction, In Press, PLoS ONE.</li>
+          <ul> <b>K. Zarringhalam</b>, M. Meyer, I. Dotu, J. Chuang, and P. Clote.</ul>
+		  <li>Statistical analysis of processes controlling choline and
+		    ethanolamine glycerophospholipids molecular species composition, PLoS
+		    ONE, 2012.</li> 
+          <ul> <b>K. Zarringhalam*</b>, L. Zhang*, M. Kiebish, K. Yang, X. Han, R.
+            Gross, and J. Chuang. (* co-first authors)</ul>
+		  <li>An open system for automatic home-cage behavioral analysis and
+		    its application to male and female mouse models of Huntington’s
+		    disease, Behavioural Brain Research, 2012.</li> 
+          <ul> K. Zarringhalam, M. Ka, Y. Kook, J. Terranova, Y. Suh,
+          O. King. and M. Um. </ul>
+		  <li>Sequential Adaptive Compressed Sampling Via Huffman Codes,
+		    Sampling Theory in Signal and Image Processing, 2011.</li>
+          <ul> A. Aldroubi, H. Wang, and <b>K. Zarringhalam.</b> </ul>
+		  <li>Nonlinear Least Squares in RN, Acta Applicandae Mathematicae,
+		    2009.</li>
+          <ul> A. Aldroubi and <b>K. Zaringhalam. </b></ul>
+		  <li>Generating an adaptive multiresolution image analysis with
+		    compact cupolets, Journal of Nonlinear Dynamics, 2007.</li> 
+          <ul><b>K. Zarringhalam</b> and K.Short.</ul>
+
+		  <div id="line"></div>
+		  
+		  </div>
+			
+		  <div id="footer">
+			<div id="fl">
+				<p class="links"><a href="index.html">Home</a><a href="Teaching.htms">Teaching</a><a href="Research.html">Research</a><a href="CV.html">CV</a><a href="Software.html">Software</a><a href="Links.html">Links</a></p>
+			</div>
+		</div>	
+	</div>
+</body>
+</html>
